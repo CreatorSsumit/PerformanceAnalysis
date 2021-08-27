@@ -1,0 +1,17 @@
+
+
+.linebar{
+    padding: 0px 20px;
+    width: 60%;
+}
+
+.dashboard-timeline {
+  max-height: 400px !important;
+   
+}
+
+@media only screen and (max-width: 600px) {
+    .linebar{
+        width: 270px;
+    }
+  }
